@@ -1,4 +1,5 @@
 # LiczbyOrazIchRodzaje
+JetBrains Academy project
 
 Jest to program który pokazuje różne rodzaje liczby, uruchamia się go wpisując do konsoli np: 
 1) 15 - Sprawdza i wypisuje rodzaje jednej liczby
